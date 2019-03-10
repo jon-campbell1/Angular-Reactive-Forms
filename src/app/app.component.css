@@ -1,0 +1,10 @@
+.container-fluid{
+  padding:20px;
+  width:98%;
+  margin:1%;
+  border:2px solid #BBBBBB;
+}
+
+.btn-secondary{
+  margin-left:15px;
+}
